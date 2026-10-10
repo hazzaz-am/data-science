@@ -1,0 +1,56 @@
+# ==========================================================
+# Data Science, Machine Learning & Deep Learning Environment
+# ==========================================================
+
+# --- Core Data Manipulation & Scientific Computing ---
+numpy
+pandas
+polars
+scipy
+pyarrow
+
+# --- Data Visualization & Exploratory Data Analysis (EDA) ---
+matplotlib
+seaborn
+plotly
+
+# --- Classical Machine Learning & Optimization ---
+scikit-learn
+xgboost
+lightgbm
+catboost
+optuna
+shap
+joblib
+
+# --- Deep Learning (PyTorch Ecosystem) ---
+# Note: If you have an NVIDIA GPU, install PyTorch with CUDA support:
+# https://pytorch.org/get-started/locally/
+torch
+torchvision
+torchaudio
+torchmetrics
+lightning
+timm
+
+# --- NLP, Hugging Face & Foundation Models ---
+transformers
+datasets
+accelerate
+
+# --- Computer Vision & Image Processing ---
+opencv-python
+pillow
+albumentations
+
+# --- Interactive Notebooks & Exploration ---
+jupyterlab
+notebook
+ipywidgets
+
+# --- Data I/O & Utilities ---
+tqdm
+python-dotenv
+requests
+openpyxl
+
